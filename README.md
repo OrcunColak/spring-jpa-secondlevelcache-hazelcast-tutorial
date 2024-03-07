@@ -1,0 +1,1 @@
+This project is an example to use Hibernate 2nd Level Cache as a Hazelcast Cluster member
